@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VotreNomDeSite//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:unique-id@votresite.com
+DTSTAMP:20231127T120000Z
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+SUMMARY:Mariage de Jasmine & Kany
+DESCRIPTION:Nous sommes heureux de vous inviter au mariage de Jasmine & Kany.\n\n
+ Voici le programme de cette journée spéciale :\n\n
+ - ***CÉRÉMONIE CIVILE*** : à **11h00**, à la mairie d'Orléans.\n
+   Adresse : 1 Pl. de l'Étape, 45040 Orléans\n\n
+ - ***CÉRÉMONIE RELIGIEUSE*** : à **14h00**, à l'Église d'Orléans.\n
+   Adresse :  5 rue Gustave Eiffel, 45000 Orléans\n\n
+ NOUS ESPÉRONS VOUS VOIR NOMBREUX POUR PARTAGER CE MOMENT INOUBLIABLE.\n
+LOCATION:Mairie d'Orléans, 1 Pl. de l'Étape, 45040 Orléans
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
